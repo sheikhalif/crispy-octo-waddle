@@ -1,3 +1,11 @@
+"""
+there's a lot of stuff wrong with this script
+the text it outputs is messed up and i just fixed it in the .txt file
+because i don't want to run this again.
+it's readability is basically 0 and a lot of it is inefficient.
+its my first time doing web scraping tho
+"""
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -7,17 +15,6 @@ import time
 
 PATH = "C:\Program Files\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
-"""
-driver.get("https://stuyactivities.org/stuymath/members")
-
-time.sleep(3);
-clubName = driver.find_element_by_css_selector(".jss18")
-print("Club name is: " + clubName.text + "\nClub members are:")
-namesList = driver.find_elements(By.CSS_SELECTOR, ".MuiTypography-body1")
-for x in range(len(namesList)-5):
-    print(namesList[x+5].text)
-"""
-import sys
 
 stdoutOrigin=sys.stdout
 sys.stdout = open("results.txt", "w")
@@ -38,6 +35,7 @@ for i in range (len(allClubs)):
         print(namesList[x+5].text)
     print("\n")
     driver2.close()
+ 
 time.sleep(2)
 driver.close()
 sys.stdout.close()
