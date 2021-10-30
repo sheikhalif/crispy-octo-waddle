@@ -7,15 +7,38 @@ import time
 
 PATH = "C:\Program Files\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
+"""
+driver.get("https://stuyactivities.org/stuymath/members")
 
+time.sleep(3);
+clubName = driver.find_element_by_css_selector(".jss18")
+print("Club name is: " + clubName.text + "\nClub members are:")
+namesList = driver.find_elements(By.CSS_SELECTOR, ".MuiTypography-body1")
+for x in range(len(namesList)-5):
+    print(namesList[x+5].text)
+"""
+import sys
+
+stdoutOrigin=sys.stdout
+sys.stdout = open("results.txt", "w")
 driver.get("https://stuyactivities.org/catalog")
+time.sleep(20)
 
-time.sleep(20);
+allClubs = driver.find_elements(By.CLASS_NAME, "jss4")
 
-main = driver.find_element_by_class_name("my-masonry-grid_column")
-
-print(main.text)
-
+for i in range (len(allClubs)):
+    hyperlink = allClubs[i+1].get_attribute("href")
+    driver2 = webdriver.Chrome(PATH)
+    driver2.get(hyperlink + "/members")
+    time.sleep(2)
+    clubName = driver2.find_element_by_css_selector(".jss18")
+    print("Club: " + clubName.text + "\Members are:")
+    namesList = driver2.find_elements(By.CSS_SELECTOR, ".MuiTypography-body1")
+    for x in range(len(namesList)-5):
+        print(namesList[x+5].text)
+    print("\n")
+    driver2.close()
 time.sleep(2)
-
-driver.quit()
+driver.close()
+sys.stdout.close()
+sys.stdout=stdoutOrigin
