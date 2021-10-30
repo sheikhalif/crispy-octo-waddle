@@ -1,5 +1,5 @@
-Club: Stuyvesant Rowing\Members are:
-Groups
+Club: Stuyvesant Rowing
+Members are:
 Mary Harvey
 Christopher Dou
 Emmy Chen
@@ -136,8 +136,8 @@ Preston Thomsen
 Canol Onar
 
 
-Club: Board Games Club\Members are:
-Groups
+Club: Board Games Club
+Members are:
 Reng Geng Zheng
 Maret Rudin Aulenbach
 Joshua Moe
@@ -177,15 +177,15 @@ Malk Agha
 Kevin Wang
 
 
-Club: StuyGivology\Members are:
-Groups
+Club: StuyGivology
+Members are:
 Janna Wang
 Jasmine Yuen
 Jasmine Yuen
 
 
-Club: Stuyvesant Generation She\Members are:
-Groups
+Club: Stuyvesant Generation She
+Members are:
 Erica Zhou
 Grace Chen
 Laura Xia
@@ -195,8 +195,8 @@ Ivan Lam
 Krishi Shah
 
 
-Club: Stuyvesant Girls Who Code\Members are:
-Groups
+Club: Stuyvesant Girls Who Code
+Members are:
 Rachel Xiao
 Liesel Wong
 Topher Mykolyk
@@ -253,7 +253,8 @@ Niki Jiang
 Keyra Minchala-velasquez
 
 
-Club: Stuy Naach\Members are:
+Club: Stuy Naach
+Members are:
 Avni Garg
 Etiha Ahmed
 Lauren Stuzin
@@ -270,7 +271,8 @@ Fatiha Mia
 Sudipta Barua
 
 
-Club: StuyOrigami\Members are:
+Club: StuyOrigami
+Members are:
 Kelly Yu
 Benjamin Houghton
 Derek Lian
@@ -289,8 +291,8 @@ Rita Shao
 Infinity Wang
 
 
-Club: Stuyvesant Women In Sports\Members are:
-Groups
+Club: Stuyvesant Women In Sports
+Members are:
 Maria Escamilla
 Nicole Liu
 Annie Thoms
@@ -301,8 +303,8 @@ Chloe Huang
 Winifred Thompson
 
 
-Club: Stuynomics\Members are:
-Groups
+Club: Stuynomics
+Members are:
 Aryaman Goenka
 Oscar Wang
 Henry Cen
@@ -383,7 +385,8 @@ Ivan Valtchev
 Stanley Chen
 
 
-Club: StuyCrochet\Members are:
+Club: StuyCrochet
+Members are:
 Grace Wu
 Jina Koh
 Ivina Wang
@@ -423,8 +426,8 @@ Zarrin Ahmed
 Dawn Vollaro
 
 
-Club: Stuy Comics\Members are:
-Groups
+Club: Stuy Comics
+Members are:
 Amy Zhang
 Annabel Zhang
 Sarah Leong
@@ -436,8 +439,8 @@ Kai Wei Zhang
 Rubaiya Shahrin
 
 
-Club: Stuyvesant Math Survey\Members are:
-Groups
+Club: Stuyvesant Math Survey
+Members are:
 Josephine Lee
 Carol Chen
 Nathan Kuo
@@ -466,7 +469,8 @@ Henry Ji
 Shaon Anwar
 
 
-Club: Stuy Webtoons\Members are:
+Club: Stuy Webtoons
+Members are:
 Ezra Lee
 Sophie Lin
 Sophia Li
@@ -485,7 +489,8 @@ Yuchen Pan
 Jessie Zhang
 
 
-Club: Anterograde\Members are:
+Club: Anterograde
+Members are:
 Dustin Olteanu
 Aiden Ackerman
 Aiden Ackerman
@@ -496,8 +501,8 @@ Aiden Ackerman
 Andy Huang
 
 
-Club: Stuyvesant Seekers Christian Fellowship\Members are:
-Groups
+Club: Stuyvesant Seekers Christian Fellowship
+Members are:
 Daniel Jeon
 Shreya Daggolu
 Hee Won Choi
@@ -525,8 +530,8 @@ Asher Jiang
 Joshua Choi
 
 
-Club: Stuyvesant Save the Children Club (SSCC)\Members are:
-Groups
+Club: Stuyvesant Save the Children Club (SSCC)
+Members are:
 Maya Dunayer
 Rhea Balakrishnan
 Joshua Gindis
@@ -545,7 +550,8 @@ Noah Rahn
 Sara Heller
 
 
-Club: StuyPod\Members are:
+Club: StuyPod
+Members are:
 Yumiko Xin Xu Wang
 Shan Jiang
 Angel Liu
@@ -555,7 +561,8 @@ Mosammad Khanom
 Andy Huang
 
 
-Club: Stuy Startup\Members are:
+Club: Stuy Startup
+Members are:
 Jeffrey Tan
 Taee Chi
 Aidan Look
@@ -607,8 +614,8 @@ Aronya Sarker
 Rian Alif
 
 
-Club: Stuyvesant Wellness Council\Members are:
-Groups
+Club: Stuyvesant Wellness Council
+Members are:
 Hailey Seltzer
 Rafatune Myma
 Grace Chen
@@ -625,7 +632,8 @@ Qina Liu
 Kaitlyn Chang
 
 
-Club: Fiscus\Members are:
+Club: Fiscus
+Members are:
 Qi En 'Ashley' Lo
 Fabiha Khan
 Khush Wadhwa
@@ -635,8 +643,8 @@ Mahmuda Meher
 Mahmuda Meher
 
 
-Club: Stuyvesant Future Physicians\Members are:
-Groups
+Club: Stuyvesant Future Physicians
+Members are:
 Arian Rahman
 Shrey Patel
 Marko Zimic
@@ -645,13 +653,14 @@ Joyti Nath
 Yashna Patel
 
 
-Club: Humans of Stuy\Members are:
-Groups
+Club: Humans of Stuy
+Members are:
 Rachel Vildman
 Tailong Wen
 
 
-Club: Stuyvesant Artificial Intelligence Club\Members are:
+Club: Stuyvesant Artificial Intelligence Club
+Members are:
 Faith Wilson
 Ayan Chowdhury
 Aaron Contreras
@@ -689,7 +698,8 @@ Colyi Chen
 Jinseo Hong
 
 
-Club: Yu Le\Members are:
+Club: Yu Le
+Members are:
 Yumiko Xin Xu Wang
 Shan Jiang
 Angel Liu
@@ -716,8 +726,8 @@ Jonathan Tang
 Ran Sun
 
 
-Club: Stuyvesant Clay Charms Club\Members are:
-Groups
+Club: Stuyvesant Clay Charms Club
+Members are:
 Sabrina Chen
 Mahima Khan
 Sabrina Chen
@@ -808,7 +818,8 @@ Juliet Burguieres
 Jayden Stevens
 
 
-Club: Stuy Archers\Members are:
+Club: Stuy Archers
+Members are:
 Sophia Su
 Pulindu Weerasekara
 Zidane Karim
@@ -892,7 +903,8 @@ Sanjana Alam
 Abedur Rahman
 
 
-Club: Junior States of America (JSA) - Stuyvesant Chapter\Members are:
+Club: Junior States of America (JSA) - Stuyvesant Chapter
+Members are:
 Owen Kuchinad
 Matthew Monge
 Angeline Song
@@ -901,7 +913,8 @@ Preston Shirazi
 Krishi Shah
 
 
-Club: Pstuychology\Members are:
+Club: Pstuychology
+Members are:
 Si Ying Ding
 Hailey Seltzer
 Alvi Khan
@@ -976,8 +989,8 @@ Anika Tasnim
 Andrea Wang
 
 
-Club: The Poetry Hub\Members are:
-Groups
+Club: The Poetry Hub
+Members are:
 Diana Akhmedova
 Ilana Gal Livshits
 Christine Chang
@@ -994,7 +1007,8 @@ Max Gruber
 Peter Adit Goswami
 
 
-Club: Stuy Improv\Members are:
+Club: Stuy Improv
+Members are:
 Nora Archer
 David Voynov
 Jeffrey Horenstein
@@ -1013,7 +1027,8 @@ Winifred Thompson
 Mosammad Khanom
 
 
-Club: Spectrum\Members are:
+Club: Spectrum
+Members are:
 Eabha Tangney
 Margaret Mikhalevsky
 Michelle Zhang
@@ -1066,7 +1081,8 @@ Nikkol Chen
 Nathalie Cuevas
 
 
-Club: Operation Smile\Members are:
+Club: Operation Smile
+Members are:
 Lina Khamze
 Ethan Kirschner
 Ethan Kirschner
@@ -1090,12 +1106,14 @@ Adam Lucey
 Winifred Thompson
 
 
-Club: Poetry Club\Members are:
+Club: Poetry Club
+Members are:
 Peter Adit Goswami
 Emily Lu
 
 
-Club: Mu Alpha Theta Stuy\Members are:
+Club: Mu Alpha Theta Stuy
+Members are:
 Jerry Liang
 Carol Chen
 Bryan Zhang
@@ -1131,8 +1149,8 @@ Steven Rakhmanchik
 Alvin Li
 
 
-Club: Stuy Go Club\Members are:
-Groups
+Club: Stuy Go Club
+Members are:
 Qicheng Sun
 Jason Zhang
 Joshua Hsing Lung Wong
@@ -1163,7 +1181,8 @@ Jakob Weir
 Lopen Zuo
 
 
-Club: Stuyvesant Business and Economics Club\Members are:
+Club: Stuyvesant Business and Economics Club
+Members are:
 Diya Rao
 Aryan Ruparel
 Oliver Milstein
@@ -1190,15 +1209,16 @@ Eli Kaplan
 Yao Chen
 
 
-Club: Stuy Prep\Members are:
+Club: Stuy Prep
+Members are:
 Jia Xin Xie
 Jennifer Zeng
 Jia Hui Zhang
 Monica Lai
 
 
-Club: Stuyvesant Girl Up\Members are:
-Groups
+Club: Stuyvesant Girl Up
+Members are:
 Lianne Ohayon
 Katherine Zhao
 Kristyn Pluchino
@@ -1218,15 +1238,15 @@ Prapti Biswas
 Surraia Islam
 
 
-Club: Stuy Step\Members are:
-Groups
+Club: Stuy Step
+Members are:
 Katherine Chang Wu
 Zoe Ng
 Nicole Sin
 
 
-Club: South Asian Youth Association (SAYA)\Members are:
-Groups
+Club: South Asian Youth Association (SAYA)
+Members are:
 Riddhi Aggarwal
 Anwesa Brahmachary
 Riona Anvekar
@@ -1269,7 +1289,8 @@ Arshia Mazumder
 Mirza Faruq
 
 
-Club: Machine Learning Club\Members are:
+Club: Machine Learning Club
+Members are:
 Jerry Liang
 Cullen Anderson
 Peter Brooks
@@ -1296,7 +1317,8 @@ Edmund Chin
 Raymond Allie
 
 
-Club: Life Skills\Members are:
+Club: Life Skills
+Members are:
 Hailey Seltzer
 Maya Doron-repa
 Alexa Seltzer
@@ -1305,7 +1327,8 @@ Aditya Anand
 Stanley He
 
 
-Club: Stuyvesant College Access\Members are:
+Club: Stuyvesant College Access
+Members are:
 Nina Li
 Benjamin Nudelman
 Mariya Siddiqui
@@ -1338,8 +1361,8 @@ Fatiha Mia
 Joyce Yang
 
 
-Club: Stuyvesant Philosophy Club\Members are:
-Groups
+Club: Stuyvesant Philosophy Club
+Members are:
 Konstantin Astafurov
 Henry Bach
 Madeline Hutchinson
@@ -1347,8 +1370,8 @@ Anastacia Titov
 Mosammad Khanom
 
 
-Club: NBA CLUB\Members are:
-Groups
+Club: NBA CLUB
+Members are:
 Kazi Hyder
 Ebtesham Ahmed
 Wasi Shahriar
@@ -1365,8 +1388,8 @@ Nasim Khan
 Arshan Pervez
 
 
-Club: Stuy A Cappella\Members are:
-Groups
+Club: Stuy A Cappella
+Members are:
 Cynthia Li
 Suah Chung
 Caleb Park
@@ -1384,8 +1407,8 @@ Vivien Li
 Tiffany Liang
 
 
-Club: Math Goals for Girls\Members are:
-Groups
+Club: Math Goals for Girls
+Members are:
 Carol Chen
 Josephine Lee
 Lamisa Aziz
@@ -1406,8 +1429,8 @@ Nicole Zhou
 Sanjana Yasna
 
 
-Club: StuyLaw\Members are:
-Groups
+Club: StuyLaw
+Members are:
 Justin Murdock
 Edward Kemelmakher
 Maya Dunayer
@@ -1470,7 +1493,8 @@ Megan Chowdhury
 Nirvan Mulchandani
 
 
-Club: Physical Fitness Club\Members are:
+Club: Physical Fitness Club
+Members are:
 Jackson Mushnick
 Ryan Petrauskas
 Navid Zunaid
@@ -1478,13 +1502,14 @@ Alexa Seltzer
 Musfiqur Rahman
 
 
-Club: Stuyvesant HOSA\Members are:
+Club: Stuyvesant HOSA
+Members are:
 Nihal Alam
 Wasi Shahriar
 
 
-Club: Digital Animation Production Club\Members are:
-Groups
+Club: Digital Animation Production Club
+Members are:
 Ethan Brovender
 Leo Smulansky
 Cindy Yang
@@ -1511,7 +1536,8 @@ Allen Lin
 Sherlyn Wu
 
 
-Club: Play Club\Members are:
+Club: Play Club
+Members are:
 Oliver Hollmann
 Michael Borczuk
 Brandon Phillips
@@ -1519,8 +1545,8 @@ Matthew Monge
 Eden Dilella
 
 
-Club: Stuyvesant Women in Physics and Engineering\Members are:
-Groups
+Club: Stuyvesant Women in Physics and Engineering
+Members are:
 Charlize Trostinsky
 Alexandra Socolow
 Elizabeth Razumov
@@ -1532,8 +1558,8 @@ Brigid Allen
 Afia Bidica
 
 
-Club: Stuy Songwriting\Members are:
-Groups
+Club: Stuy Songwriting
+Members are:
 Anastacia Titov
 Natalia Salman
 Leonard Roses
@@ -1554,7 +1580,8 @@ Konstantin Dubovskiy
 Stanley Chen
 
 
-Club: Basketball Club\Members are:
+Club: Basketball Club
+Members are:
 Deven Maheshwari
 Aidan Fingeret
 Alison Chan
@@ -1628,8 +1655,8 @@ Joyce Chen
 Hui Wang
 
 
-Club: South Asian Media Club\Members are:
-Groups
+Club: South Asian Media Club
+Members are:
 Ekra Sikder
 Maisha Sreya
 Etiha Ahmed
@@ -1644,8 +1671,8 @@ Semoi Khan
 Sabiha Amin
 
 
-Club: Stuy C-Pop\Members are:
-Groups
+Club: Stuy C-Pop
+Members are:
 Savana Yeung
 Melody Lin
 Jia Ni Angel Zheng
@@ -1677,14 +1704,14 @@ Ran Sun
 Joyce Weng
 
 
-Club: Stuy Pharmacy\Members are:
-Groups
+Club: Stuy Pharmacy
+Members are:
 Vana Lin
 Grace Jiang
 
 
-Club: Stuy K-Pop\Members are:
-Groups
+Club: Stuy K-Pop
+Members are:
 Jenny Lin
 Vita Hong Xiang
 Fiana Lin
@@ -1752,8 +1779,8 @@ Yuxi Tai
 Alberto Chen
 
 
-Club: Stuyvesant Book Club\Members are:
-Groups
+Club: Stuyvesant Book Club
+Members are:
 Ella Krechmer
 Ava Rem
 Eleanor Leung
@@ -1804,15 +1831,16 @@ Zarrin Ahmed
 Lily Lin
 
 
-Club: EMT Training\Members are:
+Club: EMT Training
+Members are:
 Aryan Patel
 Vana Lin
 Shahriyar Rohan
 Fatiha Mia
 
 
-Club: Stuy Skate\Members are:
-Groups
+Club: Stuy Skate
+Members are:
 Orion Roven
 Lauren Stuzin
 Lea Esipov
@@ -1825,14 +1853,15 @@ Shafiel Towhid
 Daria Minhas
 
 
-Club: Renaissance Women\Members are:
-Groups
+Club: Renaissance Women
+Members are:
 Leila Ferguson
 Neve Diaz-carr
 Erica Zhou
 
 
-Club: Stuy Bitcoin\Members are:
+Club: Stuy Bitcoin
+Members are:
 Ishaana Misra
 Brandon Tung
 Mosammad Khanom
@@ -1841,7 +1870,8 @@ Mason Yam
 David Wang
 
 
-Club: Stuyvesant Rubik's Cube Club\Members are:
+Club: Stuyvesant Rubik's Cube Club
+Members are:
 Justin Leung
 Alicia Jas Yu
 Jinseo Hong
@@ -1883,8 +1913,8 @@ Junhao Huang
 Faiyaz Rafee
 
 
-Club: Stuyvesant Pre-medical Society\Members are:
-Groups
+Club: Stuyvesant Pre-medical Society
+Members are:
 Olivia Zheng
 Elah Wilson
 Joyti Nath
@@ -1955,8 +1985,8 @@ Margaret Mikhalevsky
 Kevin Cao
 
 
-Club: StuyEats\Members are:
-Groups
+Club: StuyEats
+Members are:
 Ella Krechmer
 Francesca Nemati
 Dinah-luba Beylison
@@ -1972,8 +2002,8 @@ Jasper Li
 Hayley Leon
 
 
-Club: Stuyvesant Overwatch Team\Members are:
-Groups
+Club: Stuyvesant Overwatch Team
+Members are:
 Matthew Mak
 Kevin Xiao
 Kevin Xiao
@@ -1986,19 +2016,20 @@ Mengxuan Wu
 David Li
 
 
-Club: Achillea Peer Tutoring\Members are:
-Groups
+Club: Achillea Peer Tutoring
+Members are:
 Margaret Stacey
 
 
-Club: Stuyvesant Board of Elections\Members are:
-Groups
+Club: Stuyvesant Board of Elections
+Members are:
 Ava Yap
 Raymond Yang
 Matt Polazzo
 
 
-Club: Chinese Culture Club\Members are:
+Club: Chinese Culture Club
+Members are:
 Jia Xin Xie
 Si Ying Ding
 Amy Wang
@@ -2014,8 +2045,8 @@ Aileen Ruan
 Nicole Zhou
 
 
-Club: Stuyvesant Red Cross\Members are:
-Groups
+Club: Stuyvesant Red Cross
+Members are:
 Xiaoshen Ma
 Shreyasi Saha
 Vanessa Lin
@@ -2316,8 +2347,8 @@ Edison Chen
 August Matz
 
 
-Club: Asian Youth Act Stuyvesant\Members are:
-Groups
+Club: Asian Youth Act Stuyvesant
+Members are:
 Cynthia Chang
 Sarah Huynh
 Ashley Lin
@@ -2332,8 +2363,8 @@ Kenneth Gao
 Niki Jiang
 
 
-Club: StuyFlow\Members are:
-Groups
+Club: StuyFlow
+Members are:
 Aaron Hsu
 Johanna Lin
 Jennifer Sun
@@ -2445,7 +2476,8 @@ Lillian Engber
 Tiffany Leong
 
 
-Club: Stuyvesant Muslim Students Association\Members are:
+Club: Stuyvesant Muslim Students Association
+Members are:
 Rahma Abdallah
 Nazifa Hyder
 Mohammad Rahim
@@ -2518,7 +2550,8 @@ Zareen Islam
 Arshan Pervez
 
 
-Club: Stuyvesant Envirothon Club\Members are:
+Club: Stuyvesant Envirothon Club
+Members are:
 Karen Chen
 Marissa Maggio
 Yuqing Wu
@@ -2530,8 +2563,8 @@ Nandika Mukherjee
 Yaqi Zeng
 
 
-Club: Stuy Spirituality\Members are:
-Groups
+Club: Stuy Spirituality
+Members are:
 Daria Minhas
 Lea Esipov
 Andy Huang
@@ -2548,8 +2581,8 @@ Orion Roven
 Prescott Jain
 
 
-Club: Stuy Entomology\Members are:
-Groups
+Club: Stuy Entomology
+Members are:
 Ren Kondo
 River Strumwasser
 Meng Tu
@@ -2564,8 +2597,8 @@ Sarah Kim
 Fiona Lin
 
 
-Club: Stuy FFAC\Members are:
-Groups
+Club: Stuy FFAC
+Members are:
 Olivia Zheng
 Lauren Lee
 Jet Li
@@ -2584,8 +2617,8 @@ Madison Kim
 Leila Liang
 
 
-Club: STEMinism\Members are:
-Groups
+Club: STEMinism
+Members are:
 Jessica Zhuo
 Alexandra Tsarenkov
 Abigail Johnson
@@ -2601,7 +2634,8 @@ Jovana Simic
 Fatima Bagom
 
 
-Club: Patriots Club\Members are:
+Club: Patriots Club
+Members are:
 Jackson Mushnick
 Sayeb Khan
 Sajid Patwary
@@ -2609,8 +2643,8 @@ Navid Zunaid
 Frederik Jan Schutz
 
 
-Club: GYLTxStuy\Members are:
-Groups
+Club: GYLTxStuy
+Members are:
 Alexander Schletter
 Jennifer Ye
 Yaqin Rahman
@@ -2620,13 +2654,13 @@ Shahriyar Rohan
 Preston Thomsen
 
 
-Club: Stuy Sketch\Members are:
-Groups
+Club: Stuy Sketch
+Members are:
 Joey Chen
 
 
-Club: Stuy Pen Pals\Members are:
-Groups
+Club: Stuy Pen Pals
+Members are:
 Michelle Lo
 Samantha Li
 Wenfei Lin
@@ -2681,13 +2715,14 @@ Fiona Shi
 Lindsay Phung
 
 
-Club: Stuyvesant Motorsports Team\Members are:
-Groups
+Club: Stuyvesant Motorsports Team
+Members are:
 Jeremy Shen
 Tailong Wen
 
 
-Club: Stuyvesant Financial Literacy Club\Members are:
+Club: Stuyvesant Financial Literacy Club
+Members are:
 Christopher Dou
 Patrick Ging
 Cary Han
@@ -2790,8 +2825,8 @@ Stanley Chen
 David Wang
 
 
-Club: Girls Who Bake\Members are:
-Groups
+Club: Girls Who Bake
+Members are:
 Marilyn Shi
 Ava Fung
 Katherine Fletcher
@@ -2861,8 +2896,8 @@ Isabella Yang
 Pari Patni
 
 
-Club: Stuyvesant League Club\Members are:
-Groups
+Club: Stuyvesant League Club
+Members are:
 Donald Bi
 Hanson He
 Allen Li
@@ -2901,8 +2936,8 @@ Rand Hin
 Muhammad Ahmed
 
 
-Club: The Stuyvesant Research Club\Members are:
-Groups
+Club: The Stuyvesant Research Club
+Members are:
 Nina Shin
 Neha Maskey
 Julia Wu
@@ -2969,8 +3004,8 @@ Vincent D Angelo
 William Yu
 
 
-Club: Digital Photography Club\Members are:
-Groups
+Club: Digital Photography Club
+Members are:
 Ian Zaman
 Dorin Flocos
 Thomas Miner
@@ -3037,8 +3072,8 @@ Jun Kubo
 Shamreen Haque
 
 
-Club: Student Union\Members are:
-Groups
+Club: Student Union
+Members are:
 Shivali Korgaonkar
 Ryan Lee
 Larissa Yue
@@ -3051,7 +3086,8 @@ Daniel Jung
 Andrey Sokolov
 
 
-Club: Stuyvesant Public Speech and Action Club\Members are:
+Club: Stuyvesant Public Speech and Action Club
+Members are:
 Jerry Yang
 Alexander Lopez
 Aaron Hui
@@ -3073,8 +3109,8 @@ Sanjana Alam
 Zelen Zhang
 
 
-Club: Youth Science Initiative (YSI)\Members are:
-Groups
+Club: Youth Science Initiative (YSI)
+Members are:
 Jessica Zhuo
 Raymond Zou
 Abigail Johnson
@@ -3096,7 +3132,8 @@ Fatiha Mia
 Eleanor Leung
 
 
-Club: Stuyvesant Game Devs\Members are:
+Club: Stuyvesant Game Devs
+Members are:
 Alex Garcia
 Sungsan Kim
 Yusuf Elsharawy
@@ -3135,7 +3172,8 @@ Emily Zhao
 Perry Huang
 
 
-Club: Stuyvesant Investment Club\Members are:
+Club: Stuyvesant Investment Club
+Members are:
 Vedaant Shah
 Oscar Fishman
 Austin Lou
@@ -3189,7 +3227,8 @@ Shahana Ferdous
 Bill Chan
 
 
-Club: Stuy Pong\Members are:
+Club: Stuy Pong
+Members are:
 Cyrus Cursetjee
 Max Yenlee
 Michael Lam
@@ -3328,8 +3367,8 @@ Andrew Choi
 Joshua Moe
 
 
-Club: Stuyvesant History Club\Members are:
-Groups
+Club: Stuyvesant History Club
+Members are:
 Adam Avnet
 Daniel Jang
 Angier Lei
@@ -3359,7 +3398,8 @@ Joyce Yang
 Vincent D Angelo
 
 
-Club: Stuy Rhythm Games Club\Members are:
+Club: Stuy Rhythm Games Club
+Members are:
 Alif Miah
 Khin Aung
 Tammy Law
@@ -3398,8 +3438,8 @@ Yinghan Li
 Stanley Chen
 
 
-Club: Stuyvesant Chess Club\Members are:
-Groups
+Club: Stuyvesant Chess Club
+Members are:
 Benjamin Botnik
 Adam Avnet
 Alison Chan
@@ -3475,8 +3515,8 @@ Ryan Lee
 Eric Lin
 
 
-Club: Stuyvesant Competitive Coding Club (StuyCCC)\Members are:
-Groups
+Club: Stuyvesant Competitive Coding Club (StuyCCC)
+Members are:
 Maxwell Zen
 Alvin Li
 Jeremy Ku-benjet
@@ -3634,16 +3674,16 @@ Anzam Siddek
 Taosif Ahmed
 
 
-Club: ARISTA, Stuyvesant Honor Society\Members are:
-Groups
+Club: ARISTA, Stuyvesant Honor Society
+Members are:
 Leah D Silva
 Elizabeth Stansberry
 Isabel Ching
 Ashley Choi
 
 
-Club: Stuyvesant Competitive Gaming Club\Members are:
-Groups
+Club: Stuyvesant Competitive Gaming Club
+Members are:
 Emmanuel Abayev
 Zian Xie
 Jeffrey Liu
@@ -3755,7 +3795,8 @@ Nasim Khan
 Sabrina Lin
 
 
-Club: ACLU at Stuy\Members are:
+Club: ACLU at Stuy
+Members are:
 Theo Kubovy Weiss
 Khujista Umama
 Aya Alryyes
@@ -3789,7 +3830,8 @@ Eva Blyakherov
 Jessica Liu
 
 
-Club: South Asian Feminists of Stuy\Members are:
+Club: South Asian Feminists of Stuy
+Members are:
 Eshaal Ubaid
 Stuti Girdhar
 Madhavi Tiruchelvam
@@ -3801,8 +3843,8 @@ Hossain Rifath
 Mosammad Khanom
 
 
-Club: RTS Games Club\Members are:
-Groups
+Club: RTS Games Club
+Members are:
 Jerry Yang
 Ravindra Mangar
 Richard Chen
@@ -3820,8 +3862,8 @@ Jason Liu
 Keynan Nain
 
 
-Club: Stuyvesant Science Bowl\Members are:
-Groups
+Club: Stuyvesant Science Bowl
+Members are:
 Edward Oo
 Keerthan Kumarappan
 John La Micela
@@ -3861,8 +3903,8 @@ Chanmin Kang
 Benjamin Botnik
 
 
-Club: Stuyvesant Theater Community\Members are:
-Groups
+Club: Stuyvesant Theater Community
+Members are:
 Katherine Lake
 Ella Krechmer
 Jasmine Wang
@@ -3912,8 +3954,8 @@ Berry Ongan
 Natalie Soler
 
 
-Club: The Moonlight\Members are:
-Groups
+Club: The Moonlight
+Members are:
 Krista Proteasa
 Carol Chen
 Dalia Levanon
@@ -3936,8 +3978,8 @@ Wendy Weng
 Naomi Sacks
 
 
-Club: Stuyvesant Science Olympiad\Members are:
-Groups
+Club: Stuyvesant Science Olympiad
+Members are:
 Olivia Chen
 Alvin Chen
 Matthew Weng
@@ -4008,19 +4050,20 @@ Nazifa Meher
 Tracey Lin
 
 
-Club: Speech and Debate\Members are:
-Groups
+Club: Speech and Debate
+Members are:
 Andrea Li
 Anagha Purohit
 
 
-Club: The Stuyvesant Spectator\Members are:
-Groups
+Club: The Stuyvesant Spectator
+Members are:
 Morris Raskin
 Jia Hui Zhang
 
 
-Club: SOMAD (Society Of Mobile App Development)\Members are:
+Club: SOMAD (Society Of Mobile App Development)
+Members are:
 Hasin Raihan
 Alif Abdullah
 Haokun Xu
@@ -4035,7 +4078,8 @@ Andy Lin
 Rebecca Lopez
 
 
-Club: Project SibSupport\Members are:
+Club: Project SibSupport
+Members are:
 Suah Chung
 Daniel Jeon
 Silvia Hanna
@@ -4046,7 +4090,8 @@ Madison Kim
 Allison Lee
 
 
-Club: Stuyvesant Lacrosse Club\Members are:
+Club: Stuyvesant Lacrosse Club
+Members are:
 Faith Wilson
 Marko Zimic
 Cynthia Tan
@@ -4069,7 +4114,8 @@ Michael Kamela
 Sophia Dasser
 
 
-Club: Stuyvesant Linguistics Club\Members are:
+Club: Stuyvesant Linguistics Club
+Members are:
 Hannah Scheuer
 Stephanie Liu
 Stephanie Liu
@@ -4100,8 +4146,8 @@ Noakai Aronesty
 Jinseo Hong
 
 
-Club: Stuyvesant DECA\Members are:
-Groups
+Club: Stuyvesant DECA
+Members are:
 Anika Amin
 Aidan Look
 Priscilla Park
@@ -4138,8 +4184,8 @@ Sanjana Alam
 David Wang
 
 
-Club: Stuyvesant Genshin Impact Club (SGIC)\Members are:
-Groups
+Club: Stuyvesant Genshin Impact Club (SGIC)
+Members are:
 Nina Li
 Jin Yoo
 Sayantan Saha
@@ -4225,8 +4271,8 @@ Kelly Wu
 Harry Jo
 
 
-Club: Stuyvesant Animal Association\Members are:
-Groups
+Club: Stuyvesant Animal Association
+Members are:
 Coco Fang
 Xi Zheng
 Ezra Lee
@@ -4243,7 +4289,8 @@ Josephine Gunawan
 Juliette Cardinali
 
 
-Club: ACS Chem Club\Members are:
+Club: ACS Chem Club
+Members are:
 Aiden Ackerman
 Yuri Wang
 Dustin Olteanu
@@ -4257,7 +4304,8 @@ Samin Sarker
 David Cai Liang
 
 
-Club: Stuyvesant Biology Olympiad\Members are:
+Club: Stuyvesant Biology Olympiad
+Members are:
 Arthur Liang
 Elah Wilson
 Edward Oo
@@ -4311,8 +4359,8 @@ Nina Skiba
 Aiden Ackerman
 
 
-Club: StuySky\Members are:
-Groups
+Club: StuySky
+Members are:
 Ariella Rose Katz
 Nafisa Bidita
 Julian Huang
@@ -4342,8 +4390,8 @@ Anthony Alden Sevilla
 Tenzin Sherpa
 
 
-Club: Remote Buddies Stuy\Members are:
-Groups
+Club: Remote Buddies Stuy
+Members are:
 Davalynn Lee
 Erica Li
 Lamisa Aziz
@@ -4379,8 +4427,8 @@ Zareen Islam
 Hairong Zhang
 
 
-Club: Stuy Choreo\Members are:
-Groups
+Club: Stuy Choreo
+Members are:
 Caroline Leung
 Vivian Shi
 Karen Pan
@@ -4442,15 +4490,16 @@ Grace Na
 Sophia Judas
 
 
-Club: stuyFixit\Members are:
+Club: stuyFixit
+Members are:
 Hossain Rifath
 Chao Lian Lin
 William Haratsch
 Ella Zweifler
 
 
-Club: Super Stuy Bros\Members are:
-Groups
+Club: Super Stuy Bros
+Members are:
 Ethan Lipson
 Jeremy Ku-benjet
 Markus joshua Gloria
@@ -4479,7 +4528,8 @@ Nasif Attiq
 Charles Li
 
 
-Club: The Ethics Forum\Members are:
+Club: The Ethics Forum
+Members are:
 Sarah Cheyney
 Jackson Mushnick
 Grace Chen
@@ -4510,8 +4560,8 @@ M M Abrar Hasnat
 Juliet Burguieres
 
 
-Club: StuyDnD\Members are:
-Groups
+Club: StuyDnD
+Members are:
 Leo Smulansky
 Lucas Tom Wong
 Fishan Chowdhury
@@ -4542,7 +4592,8 @@ Wyatt Mcallister
 Melanie Grullon
 
 
-Club: Stuyvesant Physics Team\Members are:
+Club: Stuyvesant Physics Team
+Members are:
 Alvin Li
 Carol Chen
 Bryan Zhang
@@ -4584,15 +4635,15 @@ Phyllix Qin
 Chenkai Shen
 
 
-Club: Stuyvesant Quiz Bowl\Members are:
-Groups
+Club: Stuyvesant Quiz Bowl
+Members are:
 Julien Diamond
 Michael Avrahami
 Gabriel Avrahami
 
 
-Club: StuyDesign\Members are:
-Groups
+Club: StuyDesign
+Members are:
 Kai Wei Zhang
 Joey Chen
 Anthony Qiu Chu
@@ -4614,8 +4665,8 @@ Julia Shen
 Ethan Andrews
 
 
-Club: Stuyvesant Music Production Club\Members are:
-Groups
+Club: Stuyvesant Music Production Club
+Members are:
 Morris Raskin
 Kishi Wijaya
 Dae Yun Kim
@@ -4638,7 +4689,8 @@ Vivian Loeb
 Haokun Xu
 
 
-Club: Stuy Animal Rights\Members are:
+Club: Stuy Animal Rights
+Members are:
 Catherine Ching
 Sarah Cheyney
 Wendy Dyro
@@ -4650,8 +4702,8 @@ Henry Bach
 Sarah Currie
 
 
-Club: Stuyvesant Fashion Club\Members are:
-Groups
+Club: Stuyvesant Fashion Club
+Members are:
 Marcus Meshechok
 Zoe Haffner
 Joseph Lee
@@ -4685,7 +4737,8 @@ Roxy Perazzo
 Maegan Diep
 
 
-Club: Stuyvesant Rocketry Team\Members are:
+Club: Stuyvesant Rocketry Team
+Members are:
 Ravesh Bechu
 Lewis Holland
 Samin Alam
@@ -4696,8 +4749,8 @@ Maria Nycz Wasilec
 Christopher Choe
 
 
-Club: StuyNeuro\Members are:
-Groups
+Club: StuyNeuro
+Members are:
 Charlize Trostinsky
 Vikan Vivekanandan
 Zhaklene Sanders
@@ -4732,8 +4785,8 @@ Konstantin Dubovskiy
 Max Grunebaum
 
 
-Club: Teens for Public Health\Members are:
-Groups
+Club: Teens for Public Health
+Members are:
 Sarah Karn
 Catherine Ching
 Liesel Wong
@@ -4746,8 +4799,8 @@ Ilona Lakusta
 Erica Wong
 
 
-Club: Stuyvesant Bridging Seas\Members are:
-Groups
+Club: Stuyvesant Bridging Seas
+Members are:
 Jina Koh
 Allison Lee
 Isabella Yang
@@ -4768,8 +4821,8 @@ Chenhui Xu
 Sharon Liu
 
 
-Club: Girls Learn International\Members are:
-Groups
+Club: Girls Learn International
+Members are:
 Shreya Roy
 Etiha Ahmed
 Faima Safwana
@@ -4792,8 +4845,8 @@ Bethany Widerka
 Soo Jeong Back
 
 
-Club: Stuyvesant Sticky Fingers (Boy's Stuyvesant Ultimate Frisbee)\Members are:
-Groups
+Club: Stuyvesant Sticky Fingers (Boy's Stuyvesant Ultimate Frisbee)
+Members are:
 Austin Ngan
 Han Zhang
 Ren Kondo
@@ -4827,8 +4880,8 @@ Tim Mei
 Aahan Mehta
 
 
-Club: StuyStrums\Members are:
-Groups
+Club: StuyStrums
+Members are:
 Dae Yun Kim
 Kaley Liu
 Michelle Liang
@@ -4900,7 +4953,8 @@ Hamim Seam
 Rachel Huang
 
 
-Club: StuyCanvas\Members are:
+Club: StuyCanvas
+Members are:
 Cadence Li
 Adrianna Peng
 Jeanie Chu
@@ -4966,8 +5020,8 @@ Sophia Gao
 Ashley Luna
 
 
-Club: Stuy Smile\Members are:
-Groups
+Club: Stuy Smile
+Members are:
 Isabella Jia
 Syeda Zahan
 Shriya Anand
@@ -4986,5 +5040,3 @@ Lillian Engber
 Medha Prasad
 Stuti Girdhar
 Keyra Minchala-velasquez
-
-
