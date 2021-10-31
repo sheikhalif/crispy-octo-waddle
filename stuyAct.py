@@ -10,8 +10,8 @@ driver = webdriver.Chrome(PATH)
 
 import sys
 
-#stdoutOrigin=sys.stdout
-#sys.stdout = open("results.txt", "w")
+stdoutOrigin=sys.stdout
+sys.stdout = open("results.txt", "w")
 driver.get("https://stuyactivities.org/catalog")
 time.sleep(20)
 
@@ -34,5 +34,5 @@ for i in range (len(allClubs)):
 
 time.sleep(2)
 driver.close()
-#sys.stdout.close()
-#sys.stdout=stdoutOrigin
+sys.stdout.close()
+sys.stdout=stdoutOrigin
